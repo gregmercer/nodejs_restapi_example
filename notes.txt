@@ -1,9 +1,5 @@
-nodejs_restapi_example
-======================
 
-Here's a simple nodejs server rest api example
-
-Example from this tutorial:
+rest api example from this tutorial
 
 http://coenraets.org/blog/2012/10/creating-a-rest-api-using-node-js-express-and-mongodb/
 http://coenraets.org/blog/2012/10/nodecellar-sample-application-with-backbone-js-twitter-bootstrap-node-js-express-and-mongodb/
